@@ -1,0 +1,20 @@
+body{
+    background-color:blueviolet;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0px;
+}
+h1{
+color:bisque;
+font-size:40px;
+
+}
+p{
+    font-size:25px;
+}
+header{
+    border-bottom:rebeccapurple;
+    margin:2px;
+    padding:10px;
+    color:bisque
+}
