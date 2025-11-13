@@ -18,3 +18,15 @@ header{
     padding:10px;
     color:bisque
 }
+.chamada{
+    background:(black);
+    padding:80px;
+    display:Flex;
+    justify-content:center;
+}
+.chamada-texto{
+    margin-right:8%;
+}
+img{
+    height:200px;
+}
